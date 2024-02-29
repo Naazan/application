@@ -1,1 +1,3 @@
 This is a fileB
+This is a change to the file
+my name is feroz
